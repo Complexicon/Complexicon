@@ -18,7 +18,7 @@ description: This is my personal blog where i write about random shit i discover
 remote_theme: jekyll/minima
 
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-seo-tag
 
 # Theme-specific settings
